@@ -8,6 +8,5 @@ COMMIT AFTER MAIN COMMIT
 ** commit after main commit**-
 ======commit in branch=======
 Sampler
-Commit in my branch
 sampler1
 ts
