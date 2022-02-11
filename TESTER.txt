@@ -8,6 +8,7 @@ COMMIT AFTER MAIN COMMIT
 >>>>>>> a5a1bdf (test)
 Sampler
 ***commit before main commit**
+** commit after main commit**-
 Commit in my branch
 sampler1
 ts
