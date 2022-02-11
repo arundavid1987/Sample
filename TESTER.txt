@@ -1,7 +1,6 @@
 TESTER
-commit in main
-commit in main
 COMMIT AFTER MAIN COMMIT
+##########################
 Sampler
-David
+Commit in my branch
 sampler1
