@@ -6,6 +6,7 @@ COMMIT AFTER MAIN COMMIT
 ======commit in branch=======
 Sampler
 ***commit before main commit**
+** commit after main commit**-
 Commit in my branch
 sampler1
 ts
