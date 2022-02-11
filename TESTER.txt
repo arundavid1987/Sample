@@ -3,6 +3,7 @@ COMMIT AFTER MAIN COMMIT
 ##########################
 -----------------------------
 ----main commit-----------
+======commit in branch=======
 Sampler
 Commit in my branch
 sampler1
