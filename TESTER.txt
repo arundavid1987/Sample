@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 COMMIT AFTER MAIN COMMIT
 ##########################
+TESTER
+COMMIT AFTER MAIN COMMIT
 Sampler
 Commit in my branch
 sampler1
