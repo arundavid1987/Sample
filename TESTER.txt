@@ -4,6 +4,8 @@ COMMIT AFTER MAIN COMMIT
 -----------------------------
 ----main commit-----------
 *** commit in main ****
+======commit in branch=======
+>>>>>>> a5a1bdf (test)
 Sampler
 Commit in my branch
 sampler1
