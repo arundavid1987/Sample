@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 COMMIT AFTER MAIN COMMIT
 ##########################
 Sampler
