@@ -4,11 +4,10 @@ COMMIT AFTER MAIN COMMIT
 -----------------------------
 ----main commit-----------
 *** commit in main ****
-======commit in branch=======
->>>>>>> a5a1bdf (test)
-Sampler
 ***commit before main commit**
 ** commit after main commit**-
+======commit in branch=======
+Sampler
 Commit in my branch
 sampler1
 ts
