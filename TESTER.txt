@@ -2,7 +2,11 @@ COMMIT AFTER MAIN COMMIT
 ##########################
 TESTER
 COMMIT AFTER MAIN COMMIT
+-----------------------------
+----main commit-----------
+*** commit in main ****
 Sampler
 Commit in my branch
 sampler1
+++++++commit in main+++++++++++
 ts
